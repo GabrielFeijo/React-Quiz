@@ -14,7 +14,7 @@
 
 Resultado:
 
-* ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1074514807019028540/home.png) ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1074514998644187157/question.png) ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1074517599372726382/gameOver.png)  ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1074515194463666286/quiz.png) 
+* ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1074514807019028540/home.png) ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1074514998644187157/question.png) ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1074517918819303495/gameOver.png)  ![Projeto React](https://cdn.discordapp.com/attachments/786006828466044931/1074515194463666286/quiz.png) 
 
   
 
