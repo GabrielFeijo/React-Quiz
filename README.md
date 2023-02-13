@@ -1,6 +1,7 @@
 # React-Quiz
 
-• Questionário com perguntas sobre HTML, CSS E JavaScript feito em React.js baseado no vídeo do [Matheus Battisti - Hora de Codar](www.youtube.com/watch?v=HlkbeikH8cs).
+• Questionário com perguntas sobre HTML, CSS E JavaScript feito em React.js baseado no vídeo do [Matheus Battisti - Hora de Codar](
+https://www.youtube.com/watch?v=HlkbeikH8cs).
 
 • Mudanças/atualizações feitas.
 
