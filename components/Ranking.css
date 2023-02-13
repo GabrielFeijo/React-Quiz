@@ -1,0 +1,34 @@
+.container-ranking {
+    max-height: 75vh;
+    overflow-y: auto;
+    text-align: center;
+    width: 500px;
+    background-color: #8435de;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+.container-ranking h2 {
+    margin-bottom: .5rem;
+}
+
+.btn-ranking {
+    border: 2px solid #fff;
+    margin-top: 1rem;
+}
+
+.container-container-ranking .tip {
+    margin-bottom: 0rem;
+
+}
+
+.score {
+    background-color: transparent;
+    margin-bottom: 1rem;
+    border-radius: .5rem;
+    padding: .5rem;
+
+    font-weight: 600;
+    border: 2px solid white;
+    opacity: .9;
+}

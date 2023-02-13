@@ -1,0 +1,19 @@
+.card {
+    text-align: left;
+    margin: 1rem 0;
+    padding: 1rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    border: 2px solid white;
+}
+
+.card p {
+    margin: 0;
+}
+
+.box {
+    text-align: right;
+}
