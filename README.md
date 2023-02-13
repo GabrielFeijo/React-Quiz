@@ -1,6 +1,6 @@
 # React-Quiz
 
-• Questionário com perguntas sobre HTML, CSS E JavaScript feito em React.js baseado no vídeo do [Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=HlkbeikH8cs){:target="_blank"}.
+• Questionário com perguntas sobre HTML, CSS E JavaScript feito em React.js baseado no vídeo do [Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=HlkbeikH8cs).
 
 • Mudanças/atualizações feitas.
 
@@ -10,7 +10,7 @@
 4. Sistema de dicas para facilitar as respostar. (Caso utilizar a dica o jogador terá a pontuação reduzida).
 5. Escolha da categoria de perguntas. [Ex. HTML, CSS ou JS]
 
-### Versão online: [Quiz FrontEnd](https://front-skill.netlify.app){:target="_blank"}
+### Versão online: [Quiz FrontEnd](https://front-skill.netlify.app)
 
 Resultado:
 
