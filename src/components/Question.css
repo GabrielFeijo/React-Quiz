@@ -1,0 +1,61 @@
+.question {
+	text-align: center;
+	max-width: 500px;
+	background-color: rgb(52, 102, 174);
+	border-radius: 1rem;
+	padding: 2rem;
+}
+
+.question h2 {
+	margin-bottom: 0.5rem;
+}
+
+.question p {
+	margin-bottom: 1rem;
+}
+
+.question img {
+	margin-top: 2rem;
+}
+
+.question button {
+	border: 2px solid #fff;
+}
+
+.question .tip {
+	margin-bottom: 0rem;
+}
+
+.score {
+	background-color: transparent;
+	margin-bottom: 1rem;
+	border-radius: 0.5rem;
+	padding: 0.5rem;
+
+	font-weight: 600;
+	border: 2px solid white;
+	opacity: 0.9;
+}
+
+.new-game {
+	font-weight: bold;
+	font-size: 1.2rem;
+	cursor: pointer;
+	padding: 0.8rem 1.5rem;
+
+	background: linear-gradient(
+		90deg,
+		rgb(52, 102, 174) 0%,
+		rgb(83, 144, 241) 100%
+	);
+	border-radius: 3rem;
+	border: none;
+}
+
+.new-game:hover {
+	background: linear-gradient(
+		90deg,
+		rgb(83, 144, 241) 0%,
+		rgb(52, 102, 174) 100%
+	);
+}

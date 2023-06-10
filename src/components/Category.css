@@ -1,0 +1,53 @@
+.category {
+	text-align: center;
+	max-width: 500px;
+	border-radius: 1rem;
+	background-color: #3466ae;
+	padding: 1em;
+}
+
+.category h2,
+.category p {
+	margin-bottom: 1rem;
+}
+
+.category img {
+	margin-top: 2rem;
+	height: 20vh;
+}
+
+.flex {
+	display: flex;
+	justify-content: center;
+	gap: 1rem;
+	margin: 1.5rem 0;
+}
+
+.category label {
+	display: block;
+	font-weight: bold;
+	margin-top: 1rem;
+	margin-bottom: 0.1rem;
+}
+
+.category input {
+	background-color: transparent;
+	width: 60%;
+	border: 0;
+	outline: 0;
+	border: 1px solid white;
+	border-radius: 5rem;
+	padding: 0.8rem;
+	background: linear-gradient(
+		90deg,
+		rgb(83, 144, 241) 0%,
+		rgb(52, 102, 174) 100%
+	);
+	color: white;
+	font-weight: 600;
+}
+
+.category input::placeholder {
+	color: white;
+	font-weight: 600;
+}
